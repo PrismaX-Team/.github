@@ -1,1 +1,1 @@
-# .github
+# PrismaX Team
